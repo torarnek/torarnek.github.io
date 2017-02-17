@@ -1,6 +1,4 @@
-# torarnek.github.io
-
-A web page where I intend to share presentations etc.
+# Tor Arne Kvaløy
 
 Presentations:
 * 15th February 2016 - [FlowType - Framsia Meetup](presentations/FlowType_Framsia-Meetup.pdf)
