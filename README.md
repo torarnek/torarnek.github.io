@@ -7,8 +7,9 @@ Blog-posts:
 * December 15, 2014 - [React in the Real World](http://tech.finn.no/2014/12/15/react-in-the-real-world/)
 
 Presentations:
-* February 15, 2016 - [FlowType - Framsia Meetup](presentations/FlowType_Framsia-Meetup.pdf)
-* February 9, 2016 - [FlowType - Framsideforum FINN.no](presentations/FlowType_Framsia-Meetup.pdf)
+* February 15, 2017 - [FlowType - Framsia Meetup](presentations/FlowType_Framsia-Meetup.pdf)
+* February 9, 2017 - [FlowType - Framsideforum FINN.no](presentations/FlowType_Framsia-Meetup.pdf)
+* August 31, 2016 - [Using Search Technology for Category Guessing at FINN.no - Technical review at FINN.no](presentations/Kategorigjetting_Technical_review_FINN.no.pdf)
 * June 3, 2015 - [When the app grows - React the World State - FINN Tech Day](presentations/When_the_app_grows_React_the_World_State-LightningTalk_FINN_tech_day.pdf)
 * March 22, 2015 - [Better front-end development with React - Schibsted Barcelona SuperWeek](presentations/Better_front-end_development_with_React_part_1-SchibstedSuperweek.pdf)
 * November 26, 2014 - [React i Praksis - Framsia Meetup](presentations/React-i-praksis_Framsia-Meetup.no.pdf)
