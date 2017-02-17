@@ -1,7 +1,7 @@
 # Tor Arne Kvaløy
 
 Blog-posts:
-* February 2, 2016 - [Category guessing](http://tech.finn.no/2017/02/02/category-guessing/)
+* February 2, 2016 - [Using Search Technology for Category Guessing at FINN.no](http://tech.finn.no/2017/02/02/category-guessing/)
 * October 16, 2015 - [Javascript: from callback hell to heaven](http://tech.finn.no/2015/10/16/javascript-from-callback-hell-to-heaven/)
 * February 26, 2015 - [JavaScript is evolving](http://tech.finn.no/2015/02/26/javascript-is-evolving/)
 * December 15, 2014 - [React in the Real World](http://tech.finn.no/2014/12/15/react-in-the-real-world/)
