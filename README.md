@@ -7,6 +7,7 @@ Blog-posts:
 * December 15, 2014 - [React in the Real World](http://tech.finn.no/2014/12/15/react-in-the-real-world/)
 
 Presentations:
+* February 28, 2017 - [Introducing FlowType compared to TypeScript](presentations/Introducing-FlowType_SchibstedTechLunch.pdf)
 * February 15, 2017 - [FlowType - Framsia Meetup](presentations/FlowType_Framsia-Meetup.pdf)
 * February 9, 2017 - [FlowType - Framsideforum FINN.no](presentations/FlowType_Framsia-Meetup.pdf)
 * August 31, 2016 - [Using Search Technology for Category Guessing at FINN.no - Technical review at FINN.no](presentations/Kategorigjetting_Technical_review_FINN.no.pdf)
